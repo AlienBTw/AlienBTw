@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ahmed%20Louay%20Araour&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ahmed%20Louay%20Araour&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,10 +7,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=AlienBTw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/AlienBTw?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  </p>
-  
+<img src="https://komarev.com/ghpvc/?username=AlienBTw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/AlienBTw?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
 </div>
 
 ---
@@ -96,13 +95,12 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Contributing to Open Source
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlienBTw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienBTw&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlienBTw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienBTw&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienBTw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienBTw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienBTw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienBTw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -110,7 +108,7 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Contributing to Open Source
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlienBTw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlienBTw&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -118,23 +116,18 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Contributing to Open Source
 ## 📌 Pinned Projects
 
 <div align="center">
-
 <a href="https://github.com/AlienBTw/resume-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=resume-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Resume Website" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=resume-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Resume Website" />
 </a>
-
 <a href="https://github.com/AlienBTw/MLops_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=MLops_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="MLOps Project" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=MLops_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="MLOps Project" />
 </a>
-
 <a href="https://github.com/AlienBTw/DS-Capstone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=DS-Capstone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Data Science Capstone" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=DS-Capstone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Data Science Capstone" />
 </a>
-
 <a href="https://github.com/AlienBTw/lockdown">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=lockdown&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Lockdown Game" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=lockdown&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Lockdown Game" />
 </a>
-
 </div>
 
 ---
@@ -164,7 +157,7 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Contributing to Open Source
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlienBTw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-louay-araour)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.araour@esprit.tn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://alienbtw.github.io/resume-website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://alienbtw.github.io/ahmedlouay-portfolio/)
 
 </div>
 
@@ -197,13 +190,13 @@ const ahmed = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlienBTw/AlienBTw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlienBTw/AlienBTw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
   
   ### 💭 Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
