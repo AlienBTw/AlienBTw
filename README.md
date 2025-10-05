@@ -96,11 +96,11 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Contributing to Open Source
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlienBTw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienBTw&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienBTw&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=1F6FEB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="170"/>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienBTw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienBTw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienBTw&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -108,7 +108,7 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Contributing to Open Source
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlienBTw&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlienBTw&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -124,9 +124,6 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Contributing to Open Source
 </a>
 <a href="https://github.com/AlienBTw/DS-Capstone">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=DS-Capstone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Data Science Capstone" />
-</a>
-<a href="https://github.com/AlienBTw/lockdown">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlienBTw&repo=lockdown&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Lockdown Game" />
 </a>
 </div>
 
